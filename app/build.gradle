@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        buildConfigField("String", "KEY", '"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"')
+        buildConfigField("String", "KEY", '"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"')
     }
 
     defaultConfig {
